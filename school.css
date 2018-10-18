@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    background: rgb(204, 160, 160);
+    font-family: "Roboto Slab", serif;
+}
+
+.aanmeldpagina {
+    width: 100%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    }
+
+h1 {
+    font-family: "Roboto Slab", serif;
+    padding: 20px;
+    text-align:center;
+}
+.schoolimg {
+    width:50%;
+    height:50%;
+}
+.navbar {
+  background-color: #333;
+  width: 100%;
+}
+.navbar a {
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+}

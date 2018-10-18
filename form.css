@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    background: rgb(204, 160, 160);
+    text-align: center;
+    font-family: "Roboto Slab", serif;
+}
+h1 {
+    font-size: 20px;
+    font-weight: bolder;
+    padding-top: 40px;
+}
+section {
+    padding: 50px;
+    margin-top: 30px;
+    background: rgb(170, 88, 88);
+    }
+
+section p {
+    font-weight: bolder;
+}

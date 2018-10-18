@@ -1,0 +1,63 @@
+body {
+    margin: 0;
+    background: rgb(204, 160, 160);
+    font-family: "Roboto Slab", serif;
+}
+.navbar {
+  background-color: #333;
+  width: 100%;
+}
+.navbar a {
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+}
+
+.aanmeldpagina {
+    width: 100%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    }
+
+h1 {
+    font-family: "Roboto Slab", serif;
+    padding: 20px;
+}
+
+.aanmeldpagina input {
+    margin-bottom: 10px;
+    font-family: "Roboto Slab", serif;
+    }
+
+form {
+    text-align: center;
+    }
+
+.aanmeldpagina input {
+      width: 30%;
+      padding: 12px 20px;
+      border-radius: 5px;
+      border: 1px solid black;
+    }
+
+.aanmeldpagina textarea {
+      width: 30%;
+      padding: 12px 20px;
+      border-radius: 5px;
+      border: 1px solid black;
+      font-family: "Roboto Slab", serif;
+      }
+
+.submit {
+    font-family: "Roboto Slab", serif;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 5px;
+    border: 1px solid black;
+    }
+
+.submit:hover {
+    background-color: rgb(187, 184, 184);
+    }
